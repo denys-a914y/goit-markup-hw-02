@@ -38,7 +38,7 @@ body{
 
 
 }
-.nav-item{
+.nav-item-one{
   font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -48,6 +48,30 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
+.nav-item {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+
+  /* line-height: 24px; */
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+
+.nav-item-studio{
+  color: #2e2f42;
+
+
+
+}
+
+
+
+
+
 .adress-nav{
   font-style: normal
 
