@@ -8,6 +8,13 @@ body{
 
 
 }
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
 
 .title-web{
   font-family: "Raleway", sans-serif;
