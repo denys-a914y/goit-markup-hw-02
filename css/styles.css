@@ -62,6 +62,16 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
+.adress-item:hover{
+  color: #404bbf
+
+
+}
+.adress-item:focus {
+  color: #404bbf
+
+
+}
 
 
 .main-title{
@@ -101,11 +111,11 @@ body{
 
 }
 .button-title:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 
 }
 .button-title:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 
 
 
@@ -149,6 +159,7 @@ font-family: "Roboto", sans-serif;
 }
 
 .team-title{
+  text-transform: capitalize;
 
 
   font-family: "Roboto", sans-serif;
