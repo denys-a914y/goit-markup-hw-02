@@ -95,11 +95,21 @@ body{
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #fff;
+    cursor: pointer
 
 
 
 }
+.button-title:hover {
+  color: #404bbf;
 
+}
+.button-title:focus {
+  color: #404bbf;
+
+
+
+}
 
 
 .solution-item-title{
@@ -157,6 +167,7 @@ font-family: "Roboto", sans-serif;
   font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
+    text-transform: capitalize;
   
     /* line-height: 24px; */
     line-height: 120%;
