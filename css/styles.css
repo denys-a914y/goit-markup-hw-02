@@ -97,6 +97,20 @@ body{
 
 }
 
+.info{
+  color: #434455;
+
+}
+.info:hover{
+color: #404bbf
+
+
+}
+.info:focus{
+
+  color: #404bbf;
+}
+
 
 .main-title{
     font-family: "Roboto", sans-serif;
