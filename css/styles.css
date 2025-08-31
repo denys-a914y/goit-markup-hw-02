@@ -86,30 +86,16 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.adress-item:hover{
+.adress-item:hover,.adress-item:focus{
   color: #404bbf
 
 
 }
-.adress-item:focus {
+.nav-item:hover,.nav-item:focus{
   color: #404bbf
 
-
 }
 
-.info{
-  color: #434455;
-
-}
-.info:hover{
-color: #404bbf
-
-
-}
-.info:focus{
-
-  color: #404bbf;
-}
 
 
 .main-title{
