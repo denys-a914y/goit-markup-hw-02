@@ -15,7 +15,7 @@ body{
     font-size: 18px;
   
     /* line-height: 21px; */
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -29,7 +29,7 @@ body{
     font-size: 18px;
   
     /* line-height: 21px; */
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
@@ -80,32 +80,26 @@ body{
 .section-start{
   background: #2e2f42;
   
-
-
 }
 
 .button-title{
   
   
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
-
-
-
-}
-
-.button-txt{
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
   
-  /* line-height: 24px; */
-  line-height: 150%;
-  letter-spacing: 0.04em;
-  color: #fff;
+  background: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+  
+    /* line-height: 24px; */
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
+
 
 
 }
+
 
 
 .solution-item-title{
@@ -217,10 +211,8 @@ font-family: "Roboto", sans-serif;
     text-transform: capitalize
 }
 
-.portfolio-img{
- 
 
-}
+
 
 .portfolio-service{
   font-family: "Roboto", sans-serif;
@@ -284,9 +276,24 @@ font-family: "Roboto", sans-serif;
     font-size: 18px;
   
     /* line-height: 21px; */
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #f4f4fd;
+
+
+
+
+}
+
+.fotter-content{
+  font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+  
+    /* line-height: 24px; */
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #f4f4fd;
 
 
